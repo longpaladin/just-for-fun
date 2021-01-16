@@ -1,3 +1,8 @@
+"""
+Author: Pang Jin Jia
+Last updated: 9 Jan 2021
+"""
+
 import random
 
 new4Dnumber = random.randint(0,9999)
