@@ -1,10 +1,22 @@
-base = 8
-height = 8
-areaOfTriangle = base*height*0.5
-print(str(areaOfTriangle) + " cm^2")
+"""
+Author: Pang Jin Jia
+Last updated: 18 Jan 2021
+"""
 
-import math
+a = 11
+b = 18
+c = 30
+d = (a+b+c)//3
 
-radius = 5
-areaOfCircle = radius**2*math.pi
-print(str(areaOfCircle) + " cm\u00b2")
+print("The answer is " + str(d))
+
+print("The answer is",d)
+
+print("The answer is ",end="")
+print(d)
+
+print(f"The answer is {d}")
+
+print("The answer is %d" % (d))
+
+print("The answer is {}".format(d))
