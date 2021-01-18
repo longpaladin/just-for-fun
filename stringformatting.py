@@ -1,6 +1,8 @@
 """
 Author: Pang Jin Jia
 Last updated: 18 Jan 2021
+
+this is an example file that shows the different ways to print the same statement out
 """
 
 a = 11
